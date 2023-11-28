@@ -23,5 +23,5 @@ print("hola")
 for i in range len(mesa):
     if letra == len(mesa[i])-1:
         palo.append(mesa[i])
-    ##iduhgsihfdiuhfiusdhfius
+
 
